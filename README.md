@@ -39,19 +39,6 @@ ________  ___  __    ________  ___  ___    _____  ________    _____
 
 📂 *More coming soon! (Watch this space 👀)*  
 
----
-
-### 📊 **GitHub Stats**  
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAu101&show_icons=true&theme=radical)](https://github.com/AKAu101)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAu101&layout=compact&theme=radical)](https://github.com/AKAu101)  
-
----
 
 ### 🌐 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Kranyak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kranyak-41b105346/)
-
-#### 🔮 **Future Goals**  
-- [ ] Make a game with friends
-- [ ] Live Stream Games on Twitch and Making Games
-- [ ] Making my dream Idle Game
-
